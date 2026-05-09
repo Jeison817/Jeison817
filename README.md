@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Jeison 👋
 
-<!--
-**Jeison817/Jeison817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Matemático y estudiante de Maestría en Ciencia de Datos interesado en IA, Machine Learning y sistemas RAG.
 
-Here are some ideas to get you started:
+## Tecnologías
+- Python
+- SQL
+- Power BI
+- TensorFlow
+- HuggingFace
+- FAISS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- MathRAG
+- Fashion MNIST CNN
+- LLaMA2 Chatbot
+- Churn Pipeline
